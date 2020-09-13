@@ -14,10 +14,7 @@ I believe this is enough to explain why I decided to take the Telling Stories wi
 Being able to crunch numbers is good, but possessing this skill coupled with the talent to communicate them in an effective and digestible way is better. I am certain this class will help me to become an expert in it!
 
 # Portfolio
-This is the place where my compelling data stories will soon appear! :)
-
-1st example:
-<div class="flourish-embed flourish-chart" data-src="visualisation/3707698" data-url="https://flo.uri.sh/visualisation/3707698/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This is the place for my compelling data stories! :)
 
 ## Assignment #2: Visualizing government debt
 [Link to the Government Debt Chart](/GovernmentDebt.md)
