@@ -17,4 +17,4 @@ Being able to crunch numbers is good, but possessing this skill coupled with the
 This is the place for my compelling data stories! :)
 
 ## Assignment #2: Visualizing government debt
-[Link to the Government Debt Chart](/GovernmentDebt.md)
+[Link to Government Debt Chart](/GovernmentDebt.md)
