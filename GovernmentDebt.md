@@ -5,12 +5,16 @@
 
 <iframe src="https://data.oecd.org/chart/65u7" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65u7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-##### SOURCE: OECD DATA
+##### SOURCE: OECD DATA  
+<br/>
+<br/>
+<br/>
 
-
-# DYNAMICS OF THE DEBT-TO-GDP RATIO ACROSS THE COUNTRIES AND YEARS
+# Flourish Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3729659" data-url="https://flo.uri.sh/visualisation/3729659/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br/>
+<br/>
 
 # THE U.S. DYNAMICS OF THE DEBT-TO-GDP RATIO COMPARED TO OTHER COUNTRIES'
 
