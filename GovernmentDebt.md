@@ -38,6 +38,11 @@ Finally, the third **Line chart** turns out to be very convenient in comparing t
 <br/>
 By looking at the third dataviz, we can easily identify the desired country and conclude whether it drastically differs from the others and make some other critical observations. For example, it is clear that the U.S. is not an outlier but it is still close to the upper level of the Debt-to-GDP-ratio; or that some countries have been experiencing a modest decline in this ratio for the last 3-4 years but the U.S. has not; also, as stated in the subtitle, the U.S., as the majority of other OECD countries, has been increasing its debt/GDP ratio since the 2008 financial crisis.
 Overall, this chart proved to be the most helpful in contrasting just one single country against "the rest of the world."
+<br/>
+<br/>
+# Tableau Table
+
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1280px; height: 524px;'><object class='tableauViz' width='1280' height='524' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;annakdatavizportfolio' /><param name='name' value='Debt-to-GDPratio&#47;GovernmentDebt-GDPratioOECDData' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='origin' value='card_share_link' /><param name='showAppBanner' value='false' /></object></div>
 
 
 [Back to Main Portfolio Page](/README.md)
