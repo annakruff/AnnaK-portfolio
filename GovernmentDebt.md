@@ -19,6 +19,24 @@
 # THE U.S. DYNAMICS OF THE DEBT-TO-GDP RATIO COMPARED TO OTHER COUNTRIES'
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3730191" data-url="https://flo.uri.sh/visualisation/3730191/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<br/>
+
+For this data visualization three types of charts were used:
+
+1. *Column chart*
+2. *Grid of line charts*
+3. *Line chart*
+
+The first **Column chart** was helpful in assessing the general Debt-to-GDP-ratio picture for the presented countries at the specific year and also in simultaneously selecting several particular counties for the juxtaposition of the data columns. Link to the used source (OECD Data): https://data.oecd.org/gga/general-government-debt.htm
+<br/>
+<br/>
+**Grid of line charts** allows us to briefly look at the dynamics of the Debt-to-GDP-ratio of multiple states (to be precise, 35) and visually compare them. Of course, this type of chart does not show all the details so closely as the first column chart but it displays a big picture throughout the decades instead.
+<br/>
+<br/>
+Finally, the third **Line chart** turns out to be very convenient in comparing the case of just one particular country (the U.S.) to the global situation (35 Economic Co-Operation and Development (OECD) countries, over the years as well. It becomes possible mainly due to color techniques which allow the creation of visual contrast between data series. Neither the first chart nor the second would have been able to achieve the same effect.
+<br/>
+<br/>
+By looking at the third dataviz, we can easily identify the desired country and conclude whether it drastically differs from the others and make some other critical observations. For example, it is clear that the U.S. is not an outlier but it is still close to the upper level of the Debt-to-GDP-ratio; or that some countries have been experiencing a modest decline in this ratio for the last 3-4 years but the U.S. has not. Overall, this chart proved to be the most helpful in contrasting just one single country against "the rest of the world." :star2:
 
 
 [Back to Main Portfolio Page](/README.md)
