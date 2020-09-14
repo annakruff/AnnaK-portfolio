@@ -30,7 +30,7 @@ For this data visualization three types of charts were used:
 The first **Column chart** was helpful in assessing the general Debt-to-GDP-ratio picture for the presented countries at the specific year and also in simultaneously selecting several particular counties for the juxtaposition of the data columns. The used source is [Economic Co-Operation and Development Data](https://data.oecd.org/gga/general-government-debt.htm)
 <br/>
 <br/>
-**Grid of line charts** allows us to briefly look at the dynamics of the Debt-to-GDP-ratio of multiple states (to be precise, 35) and visually compare them. Of course, this type of chart does not show all the details so closely as the first column chart but it displays a big picture throughout the decades instead. For this and next chart was used the same data source as for the first chart.
+**Grid of line charts** allows us to briefly look at the dynamics of the Debt-to-GDP-ratio of multiple states (to be precise, 35) and visually compare them. Of course, this type of chart does not show all the details so closely as the first column chart but it displays a big picture throughout the decades instead. For this and next charts was used the same data source as for the first chart.
 <br/>
 <br/>
 Finally, the third **Line chart** turns out to be very convenient in comparing the case of just one particular country (the U.S.) to the global situation (35 OECD countries), over the years as well. It becomes possible mainly due to color techniques which allow the creation of visual contrast between data series. Neither the first chart nor the second would have been able to achieve the same effect.
