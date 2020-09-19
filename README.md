@@ -18,3 +18,6 @@ This is the place for my compelling data stories! :)
 
 ## Assignment #2 Visualizing government debt
 [Link to Infographics](/GovernmentDebt.md)
+
+## Assignment #3-4 Critique by Design
+[Link to the Story](/StateLegislaturesControl.md)
