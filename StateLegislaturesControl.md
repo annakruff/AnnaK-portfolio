@@ -84,9 +84,9 @@ So, my next steps were just to copy and paste numbers to the Excel sheet, insert
 <br/>
 <br/>
 
-As can be seen from this new version of the chart, the situation unfolding in 2019 clearly draws attention and helps a reader focus first on the most recent data and then compare it to the rest of the data series. This time, the audience can follow the dynamics of how much of the **total** number of states had been making up each party throughout the last years. Now, it can be instantly noticed that in 2019, Democrats started to regain their legislatures seats that directly speaks to the article's narrative, even adding some inspiration.
+As can be seen from this new version of the chart, the situation unfolding in 2019 clearly draws attention and helps a reader focus first on the most recent data and then compare it to the rest of the data series. This time, the audience can follow the dynamics of how much of the **total** number of states had been making up each party throughout the years. Now, it can be instantly noticed that in 2019, Democrats started to regain their legislatures seats that directly speaks to the article's narrative, even adding some inspiration.
 
-Also, the chart is cleaned of unnecessary information, helping to convey the message that is supposed to convey. If I had seen something similar when I read this article first time, I would have reacted to it in a completely another way, since it would have appeared to be quite reasonable, consistent, and logical.
+Also, the chart is cleaned of unnecessary information, helping to convey the message that is supposed to convey. If I had seen something similar when I read this article first time, I would have reacted to it completely differently, since it would have appeared to be quite reasonable, consistent, and logical.
 <br/>
 <br/>
 
