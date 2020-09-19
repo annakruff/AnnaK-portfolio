@@ -30,8 +30,8 @@ As I have written in my critique part of the assignment, this chart clearly dem
 not *winning* till the last year. But this "last year" comprises no more than 5% of the whole graph and is not even indicated.
 <br/>
 Just imagine: all this looong article is devoted only to the tiny-pitiful piece of space close to the right edge that readers must define somehow intuitively by themselves!
-Moreover, the entire narrative is playing around total numbers (including even the subtitle of the article!), referring to the whole, complex picture of legislative seats, but it is not reflected on the chart.
-So, it was pretty easy for me to choose the right type of chart to show the combined graphs - Stacked Area chart.
+Moreover, the entire narrative is playing around total numbers (including even the subtitle of the article), referring to the whole, complex picture of legislative seats, but it is not reflected on the chart.
+Therefore, it was pretty easy for me to choose the right type of chart to show the combined graphs - Stacked Area chart.
 <br/>
 <br/>
 But that was just the beginning of the process. Having finished Stephen Few's critique method assignment,
