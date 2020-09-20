@@ -7,7 +7,7 @@ That is why I searched for some actual statistics on the states' political affil
 It made me curious and I dived into the reading. But before I discuss my findings, I feel I need first to share my impression of what I read.
 As a Russian, I am all hands for true democracy but this article made me really angry.
 Based on this piece of writing, I found The Nation magazine egregiously left-biased media.
-I have never read them before and will never do after this extremely unpleasant experience.
+I have never read them before and will never do after this not the most pleasant experience.
 It is absolutely fascinating how they manipulate statistics, twist facts, distort information, and misinterpret data. It’s been utterly abhorrent to me.
 That’s enough for emotions, let’s go to constructive data visualization critique.
 <br/>
