@@ -32,6 +32,9 @@ so that overcome the difficulties of current technological change and make the e
 <br/>
 I can do this by exploring successful examples of relevant programs from other states and creating the Talent Hub entity which will make Pennsylvania,
 and Pittsburgh region in particular, “Heartland Hot Spot.”
+## SKETCHES
+![Set of sketches](IMG_4049.jpg)
+I would also include a couple of sketches displaying Pittsburgh MSA strengths and advantages as described for the second part of the story but I thought it would be redundant here because I am going to use the infographics directly from the Brookings Institution's report (see source below) since I do not have access to the original data.
 ## DATA
 Since I am going to bring to the reader’s attention the significant outflow of economically active population from the Pittsburgh Metropolitan Statistical Area (MSA),
 I will need the raw data directly from [Internal Revenue Service](https://www.irs.gov/statistics/soi-tax-stats-migration-data). Their website contains last available data
@@ -100,4 +103,7 @@ Links to some examples of pictures I like: [3D hologram of city](https://www.get
 <br/>
 <br/>
 Yes, they are all performed mostly in cyan-ish color since I believe that it goes well with such terms as *AI*, *Future*, *Opportunities*, and other inspiring ideas flying in the sky. 
+<br/>
+<br/>
 
+[Back to Main Portfolio Page](/README.md)
