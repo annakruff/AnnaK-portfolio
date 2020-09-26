@@ -21,3 +21,6 @@ This is the place for my compelling data stories! :)
 
 ## Assignment #3-4 Critique by Design
 [Link to the Story](/StateLegislaturesControl.md)
+
+##
+[Link to Final Project Part I](/FinalProject_AnnaKolesnikova.md)
