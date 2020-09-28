@@ -23,7 +23,7 @@ it has a large talent deficit that might prevent its economy from leveraging the
 <br/>
 <br/>
 **Resolution:** Creation of the regional Talent Hub will not only mitigate the effect of the COVID-19 crisis on the economy
-but also make the Pittsburgh metro area one of the most flourishing “Innovation Center” in the nation.
+but also make the Pittsburgh metro area one of the most flourishing “Innovation Centers” in the nation.
  
 ### User Story
 As a reader (a member of a local government – PA Department of Labor & Industry's Workforce Development), I want my region raise and attract skilled workforce
@@ -37,7 +37,7 @@ and Pittsburgh region in particular, “Heartland Hot Spot.”
 I would also include a couple of sketches displaying Pittsburgh MSA strengths and advantages as described for the second part of the story but I thought it would be redundant here because I am going to use the infographics directly from the Brookings Institution's report (see source below) since I do not have access to the original data.
 ## DATA
 Since I am going to bring to the reader’s attention the significant outflow of economically active population from the Pittsburgh Metropolitan Statistical Area (MSA),
-I will need the raw data directly from [Internal Revenue Service](https://www.irs.gov/statistics/soi-tax-stats-migration-data). Their website contains last available data
+I will need the raw data directly from [The Internal Revenue Service (IRS)](https://www.irs.gov/statistics/soi-tax-stats-migration-data). Their website contains last available data
 on migration flows across the years among the Unites States, including its counties. 
 <br/>
 <br/>
