@@ -43,8 +43,11 @@ for them.”
 
 <br/>
 #### WRAP-UP
+
 “Thank you very much for your time and your feedback. Should you have any follow-up questions please feel free to reach out to me at akolesni@andrew.cmu.edu.”
+
 ### FINDINGS FROM THE CONVERSATIONS
+
 #### 1. Big Boss (BB)
 First of all, I want to say that It’s been a true miracle to have a chance to talk to her this week given her extreme busyness and tight schedule.
 We had been planning to have a meeting for weeks but because of ongoing craziness around it was really hard to find a time convenient for both of us.
@@ -55,6 +58,7 @@ and I was able to ask BB relevant to it questions.
 What I’ve learned from her, is that I should be more focused on particular actions that I am going to present to the defined audience.
 She confirmed that she understood the problem and my call to action but from her perspective, it would be better if I concentrated on a more precise description
 of the necessary steps to take. So, the key takeaway for me from our conversation was to add clarifying information on the proposed solution.
+
 #### 2. Right-Hand of BB
 This interviewee brought to my attention a couple of details of my storyboard that requires more elaboration. For example, pertaining to the fourth question and the first chart, she said:
 > Will you explain this chart? It isn't super obvious.
