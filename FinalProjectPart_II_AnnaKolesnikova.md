@@ -72,6 +72,7 @@ Answering the third question, she noted with respect to the fifth sketch about b
 
 I will certainly leave this chart for the final version of my story.
 <br/>
+<br/>
 Regarding the other script questions (about the recommendation and suggested proposal), my interviewee replied back with questions:
 > So basically a "Talent Hub" is what you're proposing Pittsburgh does in order to address this need, correct? Be prepared to talk about what exactly this is - how exactly is this different than ACCD, Partner4Work, other orgs?
 
