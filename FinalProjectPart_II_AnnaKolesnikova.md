@@ -21,7 +21,8 @@ from there at this point, I was searching for those individuals who are not only
 in our region’s economy and labor market, but also who have strong connections with the government and possess a variety of tools and capabilities for advocating for
 the proposed regional policies and mobilizing leadership forces.
 <br/>
-Of course, that is the [Allegheny Conference on Community Development (ACCD)](https://www.alleghenyconference.org/). All my three interviewees are/have been working for this influential at the South-Western Pennsylvania scale organization and all of them I know in person. I would describe the first one a *“Big Boss,”* the second – *“Right-Hand of BB,”* and the third – *“My CMU Fellow and Former Companion at ACCD.”*
+<br/>
+Of course, the best and single candidate for this is the [Allegheny Conference on Community Development (ACCD)](https://www.alleghenyconference.org/). All my three interviewees are/have been working for this influential at the South-Western Pennsylvania scale organization and all of them I know in person. I would describe the first one a *“Big Boss,”* the second – *“Right-Hand of BB,”* and the third – *“My CMU Fellow and Former Companion at ACCD.”*
 ### PROTOCOL
 #### INTRODUCTION
 “First, thank you for taking time to have a chat with me today. My goal is to get to know your observations on a storyboard that I’ve designed for my project on a theme
@@ -66,10 +67,11 @@ I took this comment as definite evidence that it is not clear why I am citing th
 I received exatly the **same** comment from one of my fellows during the break-out session!
 <br/>
 <br/>
-Answering the third question, she noted with respect to the fifth sketch:
+Answering the third question, she noted with respect to the fifth sketch about business:
 > Great data points - be prepared to answer questions about these as they're super interesting!
 
 I will certainly leave this chart for the final version of my story.
+<br/>
 Regarding the other script questions (about the recommendation and suggested proposal), my interviewee replied back with questions:
 > So basically a "Talent Hub" is what you're proposing Pittsburgh does in order to address this need, correct? Be prepared to talk about what exactly this is - how exactly is this different than ACCD, Partner4Work, other orgs?
 
