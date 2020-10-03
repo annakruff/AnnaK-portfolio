@@ -23,4 +23,7 @@ This is the place for my compelling data stories! :)
 [Link to the Story](/StateLegislaturesControl.md)
 
 ## Part I: Final Project
-[Link to Final Project Part I](/FinalProject_AnnaKolesnikova.md)
+[Link to Final Project Part I](/FinalProjectPart_I_AnnaKolesnikova.md)
+
+## Part II: Final Project
+[Link to Final Project Part II](/FinalProjectPart_II_AnnaKolesnikova.md.md)
