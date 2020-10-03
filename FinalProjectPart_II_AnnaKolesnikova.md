@@ -42,6 +42,7 @@ for them.”
 <a/>
 
 <br/>
+
 #### WRAP-UP
 
 “Thank you very much for your time and your feedback. Should you have any follow-up questions please feel free to reach out to me at akolesni@andrew.cmu.edu.”
@@ -82,7 +83,7 @@ That was a clear sign that my resolution part is a weak spot in my presentation,
 3. Maybe a few short bullet points about what the talent hub would do. But not a big deal.
 4. I'm not sure what "shrink" means on the top right. Like is a 40% reduction in the # of U.S. jobs projected? Or are 40% of occupations at risk? I'm unclear on that.
 5. I would maybe change 'Setup' to 'Context'. I think that covers it. It looks great. I hope you send over the final product!
-<br/>
+
 Clearly, responses from my fellow are pretty much similar to the previous two ones. The beginning of my storyboard and its end have definitely something to be improved. I believe more message-like titles and subtitles and slight graphic modifications will mitigate the overall confusion.
 
 ### CONCLUSIONS
