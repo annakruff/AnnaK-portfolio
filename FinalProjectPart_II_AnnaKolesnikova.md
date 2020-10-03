@@ -39,6 +39,9 @@ for them.”
 3. Is something here you want to learn more about?
 4. Did you find something confusing?
 5. What would you recommend improving?
+<a/>
+
+<br/>
 #### WRAP-UP
 “Thank you very much for your time and your feedback. Should you have any follow-up questions please feel free to reach out to me at akolesni@andrew.cmu.edu.”
 ### FINDINGS FROM THE CONVERSATIONS
