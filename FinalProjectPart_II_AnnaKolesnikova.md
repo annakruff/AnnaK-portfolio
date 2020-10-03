@@ -1,4 +1,4 @@
-[LINK TO PART 1](/FinalProjectPartI_AnnaKolesnikova.md)
+[LINK TO PART 1](/FinalProjectPart_I_AnnaKolesnikova.md)
 # PART 2
 ## WIREFRAMES AND STORYBOARDS
 I decided to use as the base for my storyboard the one I drew for Part 1 (see link above). To make it more easy-to-understand, I recreated the charts in Tableau, Excel, and PowerPoint.
@@ -76,8 +76,8 @@ That was a clear sign that my resolution part is a weak spot in my presentation,
 4. I'm not sure what "shrink" means on the top right. Like is a 40% reduction in the # of U.S. jobs projected? Or are 40% of occupations at risk? I'm unclear on that.
 5. I would maybe change 'Setup' to 'Context'. I think that covers it. It looks great. I hope you send over the final product!
 <br/>
-<br/>
 Clearly, responses from my fellow are pretty much similar to the previous two ones. The beginning of my storyboard and its end have definitely something to be improved. I believe more message-like titles and subtitles and slight graphic modifications will mitigate the overall confusion.
+
 ### CONCLUSIONS
 It is fascinating how different people can make similar notes. Given the received invaluable feedback, I will definitely modify the first and last stages of my story.
 And it was not surprising for me that no one from my interviewees asked clarifications about the middle part since all of them are well familiar with the situation and
