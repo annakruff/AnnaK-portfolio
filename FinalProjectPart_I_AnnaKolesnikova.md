@@ -106,4 +106,6 @@ Yes, they are all performed mostly in cyan-ish color since I believe that it goe
 <br/>
 <br/>
 
+[Go to Part II](/FinalProjectPart_II_AnnaKolesnikova.md)
+
 [Back to Main Portfolio Page](/README.md)
