@@ -97,4 +97,6 @@ These apparent commonalities in the answers made me rethink my approach for pres
 <br/>
 <br/>
 
+[Return to Part I](/FinalProjectPart_I_AnnaKolesnikova.md)
+
 [Back to Main Portfolio Page](/README.md)
