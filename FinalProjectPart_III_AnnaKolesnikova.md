@@ -41,7 +41,7 @@ In the end, I put some examples of real programs—similar to what I am proposin
 <br/>
 [**LINK TO THE PUBLISHED DATA STORY**](https://arcg.is/0aPCqL0)
 <br/>
-[**LINK TO GITHUB REPOSITORY**](https://arcg.is/0aPCqL0)
+[**LINK TO GITHUB REPOSITORY**](/README.md)
 <br/>
 <br/>
 ## REFERENCES
