@@ -13,6 +13,9 @@ Those draft versions of my graphics from Tableau and Excel I added to the StoryM
 <br/>
 <br/>
 [Here is the link to my Online Story](https://arcg.is/0aPCqL0)
+<br/>
+<br/>
+At the end of this page, are presented screenshots from the same story (its draft version) for better convenience.
 
 ## USER RESEARCH AND INTERVIEWS
 ### INTERVIEWEES
@@ -96,7 +99,23 @@ do not need specific details. But all three expressed interest in the impending 
 These apparent commonalities in the answers made me rethink my approach for presenting the first two charts (I will change the title and add a subtitle so that to establish a connection between the purpose of my story and these data) and supplement the call-to-action figure with more details which I’ll lay out maybe as a schematic text on a next picture.
 <br/>
 <br/>
+#### Promised Screenshots
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
+![4](4.jpg)
+![5](5.jpg)
+![6](6.jpg)
+![7](7.jpg)
+![8](8.jpg)
+![9](9.jpg)
+![10](10.jpg)
+![11](11.jpg)
+<br/>
+<br/>
 
 [Return to Part I](/FinalProjectPart_I_AnnaKolesnikova.md)
+
+[Go to Part III](/FinalProjectPart_III_AnnaKolesnikova.md)
 
 [Back to Main Portfolio Page](/README.md)
