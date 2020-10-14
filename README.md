@@ -29,5 +29,5 @@ This is the place for my compelling data stories! :)
 [Link to Final Project Part II](/FinalProjectPart_II_AnnaKolesnikova.md)
 
 ## Part III: Final Project
-[Link to Final Project Part II](/FinalProjectPart_III_AnnaKolesnikova.md)
+[Link to Final Project Part III](/FinalProjectPart_III_AnnaKolesnikova.md)
 
