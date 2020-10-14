@@ -40,10 +40,5 @@ By looking at the third dataviz, we can easily identify the desired country and 
 Overall, this chart proved to be the most helpful in contrasting just one single country against "the rest of the world."
 <br/>
 <br/>
-# Tableau Table
-
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1280px; height: 524px;'><object class='tableauViz' width='1280' height='524' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;annakdatavizportfolio' /><param name='name' value='Debt-to-GDPratio&#47;GovernmentDebt-GDPratioOECDData' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='origin' value='card_share_link' /><param name='showAppBanner' value='false' /></object></div>
-<br/>
-<br/>
 <br/>
 [Back to Main Portfolio Page](/README.md)
